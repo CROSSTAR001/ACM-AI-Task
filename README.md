@@ -17,7 +17,7 @@ Overall, the Air Quality Annual Summary dataset is a rich resource for anyone in
 
 ### **2. Details on what your model will predict**
 
-The **Air Quality Annual Summary** dataset contains information on various parameters related to air quality. My model will be predicting *the impact of air pollution on human health*. I have used 6 featues including **Arithmetic mean**, **Pollutant standard**, **Observation count and percent**, **Year**, and **Location**. 
+The **Air Quality Annual Summary** dataset contains information on various parameters related to air quality. My model will be predicting *the impact of air pollution on human health*. I have used 10 featues including **Arithmetic mean**, **Pollutant standard**, **Observation count and percent**, **Year**, and **Location parameters**. 
 
 **Parameter name**: This column indicates the type of pollutant being measured, which is important in assessing its impact on health. For example, pollutants such as ozone, particulate matter, and sulfur dioxide are known to have negative health effects.
 
