@@ -1,9 +1,9 @@
 # ACM-AI-Task
- To build a simple deep learning model with the dataset provided - Air Quality Annual Summary (https://www.kaggle.com/datasets/epa/air-quality)
+ To build a simple deep learning model with the dataset provided - (Air Quality Annual Summary)[https://www.kaggle.com/datasets/epa/air-quality]
 
-### Deliverables:
+## Deliverables:
 
-**1. Theoretical analysis of the dataset provided**
+### **1. Theoretical analysis of the dataset provided**
 
 The **Air Quality Annual Summary** dataset contains information about air quality measures taken from monitoring stations across the United States. The data is provided by the **U.S. Environmental Protection Agency** and covers a period of several years.
 
@@ -15,7 +15,7 @@ One potential challenge with the dataset is that it is quite large and contains 
 
 Overall, the Air Quality Annual Summary dataset is a rich resource for anyone interested in studying air quality in the United States. With careful analysis, it is possible to uncover important insights about pollution trends, human health impacts, and more.
 
-**2. Details on what your model will predict**
+### **2. Details on what your model will predict**
 
 The **Air Quality Annual Summary** dataset contains information on various parameters related to air quality. My model will be predicting the impact of air pollution on human health. I have used 6 featues including **Arithmetic mean**, **Pollutant standard**, **Observation count and percent**, **Year**, and **Location**. 
 
