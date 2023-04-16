@@ -3,7 +3,8 @@
 
 ## Deliverables:
 
-### **1. Theoretical analysis of the dataset provided**
+<details>
+<summary><h3>1. Theoretical analysis of the dataset provided</h3></summary>
 
 The **Air Quality Annual Summary** dataset contains information about air quality measures taken from monitoring stations across the United States. The data is provided by the **U.S. Environmental Protection Agency** and covers a period of several years.
 
@@ -14,8 +15,10 @@ With this dataset, it is possible to conduct a wide range of analyses related to
 One potential challenge with the dataset is that it is quite large and contains a lot of information. This means that any analysis will need to carefully consider which columns are most relevant to the research question at hand. It may also be necessary to conduct some data cleaning and processing to ensure that the data is in a suitable format for analysis.
 
 Overall, the Air Quality Annual Summary dataset is a rich resource for anyone interested in studying air quality in the United States. With careful analysis, it is possible to uncover important insights about pollution trends, human health impacts, and more.
+</details>
 
-### **2. Details on what your model will predict**
+<details>
+<summary><h3>2. Details on what your model will predict</h3></summary>
 
 The **Air Quality Annual Summary** dataset contains information on various parameters related to air quality. My model will be predicting *the impact of air pollution on human health*. I have used 10 featues including **Arithmetic mean**, **Pollutant standard**, **Observation count and percent**, **Year**, and **Location parameters**. 
 
@@ -33,3 +36,4 @@ The **Air Quality Annual Summary** dataset contains information on various param
 
 
 By analyzing this data, it is possible to predict the potential health risks associated with exposure to different levels of air pollutants. For example, high levels of certain pollutants may lead to *respiratory problems*, *heart disease*, or other health issues. By understanding how these pollutants affect human health, policymakers can make informed decisions about how to mitigate the impact of air pollution on their communities.
+</details>
